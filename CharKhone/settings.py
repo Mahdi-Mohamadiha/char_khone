@@ -40,6 +40,8 @@ INSTALLED_APPS = [
 
     # local apps
     'ProximityFinder.apps.ProximityFinderConfig',
+    'HouseService.apps.HouseServiceConfig',
+    
 ]
 
 MIDDLEWARE = [
